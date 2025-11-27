@@ -1,9 +1,5 @@
 streamlit
+joblib
+numpy
 pandas
 scikit-learn
-matplotlib
-seaborn
-numpy
-linear-regressor
-gradient-Boosting-Regressor
-Random-Forest-Regressor
